@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asad451
 - 👀 I’m interested in Web related products especially JAVA/Spring based.
-- 🌱 I’m currently learning for a extensive research oriented role involving designing and developing websites.
+- 🌱 I’m currently learning for a extensive research oriented role that involves designing and developing websites.
 - 📫 How to reach me: asadmasood451@gmail.com
 
 <!---
