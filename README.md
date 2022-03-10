@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asad451
-- 👀 I’m interested in Web related products especially JAVA/Spring based.
-- 🌱 I’m currently looking for an extensive research oriented role that involves designing and developing web / mobile app.
+- 👀 I’m interested in Web and android related projects.
+- 🌱 I’m currently looking for an extensive research/industry oriented role that involves designing and developing web / mobile apps.
 - 📫 How to reach me: asadmasood451@gmail.com or asad4masood@gmail.com
 
 <!---
