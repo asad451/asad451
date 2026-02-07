@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asad451
-- 👀 I’m interested in Web and android related projects.
-- 🌱 I’m currently looking for an extensive research/industry oriented role that involves designing and developing web / mobile apps.
+- 👀 I’m interested in AI related project.
+- 🌱 I’m currently looking for an extensive research/industry oriented role that involves designing and developing agentic and generative AI apps.
 - 📫 How to reach me: asadmasood451@gmail.com or asad4masood@gmail.com
 
 <!---
